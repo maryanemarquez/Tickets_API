@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5s8ZOCgk5OA=",
+  "success": true,
+  "projectFilePath": "C:\\Faculdade de ADS\\Faculdade de ADS\\3° Período\\Tickets_API\\Tickets_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\marya\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
