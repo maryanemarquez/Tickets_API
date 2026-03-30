@@ -31,3 +31,4 @@ C:\Faculdade de ADS\Faculdade de ADS\3° Período\Tickets_API\obj\Debug\net10.0\
 C:\Faculdade de ADS\Faculdade de ADS\3° Período\Tickets_API\obj\Debug\net10.0\Tickets_API.pdb
 C:\Faculdade de ADS\Faculdade de ADS\3° Período\Tickets_API\obj\Debug\net10.0\Tickets_API.genruntimeconfig.cache
 C:\Faculdade de ADS\Faculdade de ADS\3° Período\Tickets_API\obj\Debug\net10.0\ref\Tickets_API.dll
+c:\Faculdade de ADS\Faculdade de ADS\3° Período\Tickets_API\obj\Debug\net10.0\Tickets_API.sourcelink.json
