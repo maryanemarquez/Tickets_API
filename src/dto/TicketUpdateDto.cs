@@ -3,7 +3,7 @@ namespace Tickets_API.src.dto
     /// <summary>
     /// DTO usado para atualizar um ticket existente.
     /// </summary>
-    public class TicketsUpdateDto
+    public class TicketUpdateDto
     {
         /// <summary>Novo título do ticket.</summary>
         public string Titulo { get; set; }

@@ -3,7 +3,7 @@ namespace Tickets_API.src.dto
     /// <summary>
     /// DTO usado para criar um novo ticket no sistema.
     /// </summary>
-    public class TicketsCreateDto
+    public class TicketCreateDto
     {
         /// <summary>Título do ticket.</summary>
         public string Titulo { get; set; }
